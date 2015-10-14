@@ -1,5 +1,5 @@
 {
-  "name": "angularjs",
+  "name": "angularjs-legacy",
   "branchVersion": "1.2.*",
   "distTag": "ie8_compat",
   "repository": {
